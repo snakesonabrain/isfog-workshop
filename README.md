@@ -18,6 +18,8 @@ This package is written for Python 3.7+. Downloading Anaconda3 is recommended fo
 
 The notebooks can also be run in an installation-free environment through binder.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/snakesonabrain/isfog-workshop/main)
+
 
 License and copyright
 -----------------------
