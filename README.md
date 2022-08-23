@@ -3,12 +3,6 @@ ISFOG - Data science 101 - Pre-conference workshop
 
 This Python package contains tutorial notebooks and assignments for the ISFOG Data Science 101 workshop.
 
-groundhog bundles a large amount of knowledge and provides it to end users through extensively documented functions. The aim of the package is as follows:
-
-   - Improve correctness through unit-tested functions with parameter validation
-   - Raise awareness on underlying test data and theories supporting engineering correlations and design formulae
-   - Promoting development of open-source engineering software by the worldwide community of engineers
-
 For more background on the problems included in this workshop, consult the keynote paper on Data science in offshore geotechnics (Stuyts, 2020).
 
 Installation requirements
